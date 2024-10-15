@@ -1,0 +1,6 @@
+/build/
+/venv/
+/dist/
+/unpdf_v0.2_win.spec
+/.idea/
+/pypdf-unlocker.spec
